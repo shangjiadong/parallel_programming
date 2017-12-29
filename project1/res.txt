@@ -1,0 +1,1540 @@
+Using 1 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     5.95 MegaHeights/Sec
+Average Performance =     5.03 MegaHeights/Sec
+Using 1 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =     6.59 MegaHeights/Sec
+Average Performance =     6.00 MegaHeights/Sec
+Using 1 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =     6.69 MegaHeights/Sec
+Average Performance =     6.39 MegaHeights/Sec
+Using 1 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =     6.98 MegaHeights/Sec
+Average Performance =     6.91 MegaHeights/Sec
+Using 1 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =     6.97 MegaHeights/Sec
+Average Performance =     6.94 MegaHeights/Sec
+Using 1 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =     6.98 MegaHeights/Sec
+Average Performance =     6.96 MegaHeights/Sec
+Using 1 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =     6.98 MegaHeights/Sec
+Average Performance =     6.96 MegaHeights/Sec
+Using 1 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    13.39 MegaHeights/Sec
+Average Performance =     8.23 MegaHeights/Sec
+Using 1 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    13.39 MegaHeights/Sec
+Average Performance =    12.39 MegaHeights/Sec
+Using 1 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    13.38 MegaHeights/Sec
+Average Performance =    13.12 MegaHeights/Sec
+Using 1 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    13.37 MegaHeights/Sec
+Average Performance =    13.30 MegaHeights/Sec
+Using 2 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     7.57 MegaHeights/Sec
+Average Performance =     5.55 MegaHeights/Sec
+Using 2 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    11.33 MegaHeights/Sec
+Average Performance =     9.00 MegaHeights/Sec
+Using 2 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    12.69 MegaHeights/Sec
+Average Performance =    10.19 MegaHeights/Sec
+Using 2 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    13.86 MegaHeights/Sec
+Average Performance =    12.68 MegaHeights/Sec
+Using 2 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    13.93 MegaHeights/Sec
+Average Performance =    13.53 MegaHeights/Sec
+Using 2 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    13.90 MegaHeights/Sec
+Average Performance =    13.81 MegaHeights/Sec
+Using 2 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    13.91 MegaHeights/Sec
+Average Performance =    13.82 MegaHeights/Sec
+Using 2 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    13.91 MegaHeights/Sec
+Average Performance =    13.90 MegaHeights/Sec
+Using 2 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    26.64 MegaHeights/Sec
+Average Performance =    20.94 MegaHeights/Sec
+Using 2 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    26.63 MegaHeights/Sec
+Average Performance =    26.15 MegaHeights/Sec
+Using 2 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    26.57 MegaHeights/Sec
+Average Performance =    26.45 MegaHeights/Sec
+Using 4 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =    10.98 MegaHeights/Sec
+Average Performance =     8.40 MegaHeights/Sec
+Using 4 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    25.40 MegaHeights/Sec
+Average Performance =    20.37 MegaHeights/Sec
+Using 4 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    40.52 MegaHeights/Sec
+Average Performance =    33.73 MegaHeights/Sec
+Using 4 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    49.45 MegaHeights/Sec
+Average Performance =    42.21 MegaHeights/Sec
+Using 4 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    27.75 MegaHeights/Sec
+Average Performance =    26.30 MegaHeights/Sec
+Using 4 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    27.85 MegaHeights/Sec
+Average Performance =    27.34 MegaHeights/Sec
+Using 4 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    27.75 MegaHeights/Sec
+Average Performance =    27.61 MegaHeights/Sec
+Using 4 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    27.80 MegaHeights/Sec
+Average Performance =    27.76 MegaHeights/Sec
+Using 4 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    51.11 MegaHeights/Sec
+Average Performance =    34.38 MegaHeights/Sec
+Using 4 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    51.20 MegaHeights/Sec
+Average Performance =    50.39 MegaHeights/Sec
+Using 4 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    51.19 MegaHeights/Sec
+Average Performance =    50.96 MegaHeights/Sec
+Using 6 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     9.50 MegaHeights/Sec
+Average Performance =     6.91 MegaHeights/Sec
+Using 6 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    26.63 MegaHeights/Sec
+Average Performance =    19.87 MegaHeights/Sec
+Using 6 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    51.91 MegaHeights/Sec
+Average Performance =    40.63 MegaHeights/Sec
+Using 6 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    72.18 MegaHeights/Sec
+Average Performance =    61.79 MegaHeights/Sec
+Using 6 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    41.36 MegaHeights/Sec
+Average Performance =    37.59 MegaHeights/Sec
+Using 6 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    41.67 MegaHeights/Sec
+Average Performance =    40.01 MegaHeights/Sec
+Using 6 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    41.53 MegaHeights/Sec
+Average Performance =    41.21 MegaHeights/Sec
+Using 6 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    41.61 MegaHeights/Sec
+Average Performance =    36.05 MegaHeights/Sec
+Using 6 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    41.76 MegaHeights/Sec
+Average Performance =    41.43 MegaHeights/Sec
+Using 6 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    76.59 MegaHeights/Sec
+Average Performance =    66.48 MegaHeights/Sec
+Using 6 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    76.77 MegaHeights/Sec
+Average Performance =    76.11 MegaHeights/Sec
+Using 8 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     8.52 MegaHeights/Sec
+Average Performance =     5.55 MegaHeights/Sec
+Using 8 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    20.00 MegaHeights/Sec
+Average Performance =    14.41 MegaHeights/Sec
+Using 8 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    37.76 MegaHeights/Sec
+Average Performance =    29.68 MegaHeights/Sec
+Using 8 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    51.82 MegaHeights/Sec
+Average Performance =    43.79 MegaHeights/Sec
+Using 8 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    54.92 MegaHeights/Sec
+Average Performance =    48.90 MegaHeights/Sec
+Using 8 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    55.66 MegaHeights/Sec
+Average Performance =    52.81 MegaHeights/Sec
+Using 8 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    55.09 MegaHeights/Sec
+Average Performance =    54.49 MegaHeights/Sec
+Using 8 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    55.62 MegaHeights/Sec
+Average Performance =    55.19 MegaHeights/Sec
+Using 8 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    55.74 MegaHeights/Sec
+Average Performance =    55.67 MegaHeights/Sec
+Using 8 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =   102.37 MegaHeights/Sec
+Average Performance =    88.00 MegaHeights/Sec
+Using 8 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =   102.14 MegaHeights/Sec
+Average Performance =   100.38 MegaHeights/Sec
+Using 10 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     7.12 MegaHeights/Sec
+Average Performance =     4.59 MegaHeights/Sec
+Using 10 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    22.90 MegaHeights/Sec
+Average Performance =    17.01 MegaHeights/Sec
+Using 10 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    51.49 MegaHeights/Sec
+Average Performance =    39.75 MegaHeights/Sec
+Using 10 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    39.29 MegaHeights/Sec
+Average Performance =    33.36 MegaHeights/Sec
+Using 10 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    41.30 MegaHeights/Sec
+Average Performance =    37.02 MegaHeights/Sec
+Using 10 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    41.34 MegaHeights/Sec
+Average Performance =    39.61 MegaHeights/Sec
+Using 10 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    41.21 MegaHeights/Sec
+Average Performance =    40.75 MegaHeights/Sec
+Using 10 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    69.18 MegaHeights/Sec
+Average Performance =    68.94 MegaHeights/Sec
+Using 10 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    69.27 MegaHeights/Sec
+Average Performance =    54.26 MegaHeights/Sec
+Using 10 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =   127.64 MegaHeights/Sec
+Average Performance =    97.61 MegaHeights/Sec
+Using 10 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =   127.71 MegaHeights/Sec
+Average Performance =   126.48 MegaHeights/Sec
+Using 20 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     4.59 MegaHeights/Sec
+Average Performance =     3.48 MegaHeights/Sec
+Using 20 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    16.24 MegaHeights/Sec
+Average Performance =    12.15 MegaHeights/Sec
+Using 20 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    50.54 MegaHeights/Sec
+Average Performance =    38.45 MegaHeights/Sec
+Using 20 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =   113.31 MegaHeights/Sec
+Average Performance =    92.98 MegaHeights/Sec
+Using 20 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =   140.64 MegaHeights/Sec
+Average Performance =   118.30 MegaHeights/Sec
+Using 20 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    81.34 MegaHeights/Sec
+Average Performance =    70.68 MegaHeights/Sec
+Using 20 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    79.49 MegaHeights/Sec
+Average Performance =    76.12 MegaHeights/Sec
+Using 20 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    81.56 MegaHeights/Sec
+Average Performance =    81.03 MegaHeights/Sec
+Using 20 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    81.94 MegaHeights/Sec
+Average Performance =    81.25 MegaHeights/Sec
+Using 20 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =   148.09 MegaHeights/Sec
+Average Performance =   111.40 MegaHeights/Sec
+Using 20 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =   133.32 MegaHeights/Sec
+Average Performance =   108.27 MegaHeights/Sec
+Using 1 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     5.89 MegaHeights/Sec
+Average Performance =     5.01 MegaHeights/Sec
+Using 1 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =     6.61 MegaHeights/Sec
+Average Performance =     5.90 MegaHeights/Sec
+Using 1 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =     6.71 MegaHeights/Sec
+Average Performance =     6.34 MegaHeights/Sec
+Using 1 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =     6.98 MegaHeights/Sec
+Average Performance =     6.90 MegaHeights/Sec
+Using 1 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =     6.97 MegaHeights/Sec
+Average Performance =     6.95 MegaHeights/Sec
+Using 1 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =     6.98 MegaHeights/Sec
+Average Performance =     6.97 MegaHeights/Sec
+Using 1 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =     6.98 MegaHeights/Sec
+Average Performance =     6.97 MegaHeights/Sec
+Using 1 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    13.39 MegaHeights/Sec
+Average Performance =     8.27 MegaHeights/Sec
+Using 1 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    13.28 MegaHeights/Sec
+Average Performance =    12.52 MegaHeights/Sec
+Using 1 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    13.39 MegaHeights/Sec
+Average Performance =    13.13 MegaHeights/Sec
+Using 1 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    13.39 MegaHeights/Sec
+Average Performance =    13.32 MegaHeights/Sec
+Using 2 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     7.66 MegaHeights/Sec
+Average Performance =     5.60 MegaHeights/Sec
+Using 2 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    11.61 MegaHeights/Sec
+Average Performance =     9.18 MegaHeights/Sec
+Using 2 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    12.97 MegaHeights/Sec
+Average Performance =    11.06 MegaHeights/Sec
+Using 2 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    13.79 MegaHeights/Sec
+Average Performance =    12.66 MegaHeights/Sec
+Using 2 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    13.93 MegaHeights/Sec
+Average Performance =    13.56 MegaHeights/Sec
+Using 2 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    13.95 MegaHeights/Sec
+Average Performance =    13.73 MegaHeights/Sec
+Using 2 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    13.95 MegaHeights/Sec
+Average Performance =    13.91 MegaHeights/Sec
+Using 2 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    13.96 MegaHeights/Sec
+Average Performance =    13.95 MegaHeights/Sec
+Using 2 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    18.64 MegaHeights/Sec
+Average Performance =    14.96 MegaHeights/Sec
+Using 2 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    26.76 MegaHeights/Sec
+Average Performance =    25.30 MegaHeights/Sec
+Using 2 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    26.77 MegaHeights/Sec
+Average Performance =    26.19 MegaHeights/Sec
+Using 4 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     7.60 MegaHeights/Sec
+Average Performance =     5.61 MegaHeights/Sec
+Using 4 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    17.54 MegaHeights/Sec
+Average Performance =    12.59 MegaHeights/Sec
+Using 4 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    23.44 MegaHeights/Sec
+Average Performance =    19.20 MegaHeights/Sec
+Using 4 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    27.30 MegaHeights/Sec
+Average Performance =    24.54 MegaHeights/Sec
+Using 4 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    27.74 MegaHeights/Sec
+Average Performance =    24.88 MegaHeights/Sec
+Using 4 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    27.84 MegaHeights/Sec
+Average Performance =    27.36 MegaHeights/Sec
+Using 4 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    27.90 MegaHeights/Sec
+Average Performance =    27.80 MegaHeights/Sec
+Using 4 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    27.91 MegaHeights/Sec
+Average Performance =    27.88 MegaHeights/Sec
+Using 4 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    53.49 MegaHeights/Sec
+Average Performance =    36.60 MegaHeights/Sec
+Using 4 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    39.41 MegaHeights/Sec
+Average Performance =    34.06 MegaHeights/Sec
+Using 4 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    51.72 MegaHeights/Sec
+Average Performance =    47.20 MegaHeights/Sec
+Using 6 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     8.60 MegaHeights/Sec
+Average Performance =     5.79 MegaHeights/Sec
+Using 6 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    20.73 MegaHeights/Sec
+Average Performance =    15.49 MegaHeights/Sec
+Using 6 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    49.98 MegaHeights/Sec
+Average Performance =    39.80 MegaHeights/Sec
+Using 6 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    72.21 MegaHeights/Sec
+Average Performance =    60.21 MegaHeights/Sec
+Using 6 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    41.34 MegaHeights/Sec
+Average Performance =    32.63 MegaHeights/Sec
+Using 6 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    41.63 MegaHeights/Sec
+Average Performance =    40.20 MegaHeights/Sec
+Using 6 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    41.82 MegaHeights/Sec
+Average Performance =    41.52 MegaHeights/Sec
+Using 6 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    41.84 MegaHeights/Sec
+Average Performance =    41.74 MegaHeights/Sec
+Using 6 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    41.85 MegaHeights/Sec
+Average Performance =    41.81 MegaHeights/Sec
+Using 6 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    58.41 MegaHeights/Sec
+Average Performance =    47.81 MegaHeights/Sec
+Using 6 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    76.79 MegaHeights/Sec
+Average Performance =    74.62 MegaHeights/Sec
+Using 8 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     6.95 MegaHeights/Sec
+Average Performance =     5.10 MegaHeights/Sec
+Using 8 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    19.07 MegaHeights/Sec
+Average Performance =    14.27 MegaHeights/Sec
+Using 8 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    35.13 MegaHeights/Sec
+Average Performance =    23.79 MegaHeights/Sec
+Using 8 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    51.98 MegaHeights/Sec
+Average Performance =    44.10 MegaHeights/Sec
+Using 8 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    54.89 MegaHeights/Sec
+Average Performance =    48.95 MegaHeights/Sec
+Using 8 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    55.61 MegaHeights/Sec
+Average Performance =    52.93 MegaHeights/Sec
+Using 8 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    55.64 MegaHeights/Sec
+Average Performance =    55.12 MegaHeights/Sec
+Using 8 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    55.57 MegaHeights/Sec
+Average Performance =    55.40 MegaHeights/Sec
+Using 8 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    55.68 MegaHeights/Sec
+Average Performance =    55.57 MegaHeights/Sec
+Using 8 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =   102.38 MegaHeights/Sec
+Average Performance =    84.90 MegaHeights/Sec
+Using 8 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    83.09 MegaHeights/Sec
+Average Performance =    76.33 MegaHeights/Sec
+Using 10 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     4.74 MegaHeights/Sec
+Average Performance =     3.35 MegaHeights/Sec
+Using 10 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    19.09 MegaHeights/Sec
+Average Performance =    14.12 MegaHeights/Sec
+Using 10 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    43.65 MegaHeights/Sec
+Average Performance =    33.31 MegaHeights/Sec
+Using 10 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    63.37 MegaHeights/Sec
+Average Performance =    52.69 MegaHeights/Sec
+Using 10 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    68.15 MegaHeights/Sec
+Average Performance =    60.13 MegaHeights/Sec
+Using 10 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    69.42 MegaHeights/Sec
+Average Performance =    65.13 MegaHeights/Sec
+Using 10 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    69.57 MegaHeights/Sec
+Average Performance =    68.57 MegaHeights/Sec
+Using 10 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    69.72 MegaHeights/Sec
+Average Performance =    69.38 MegaHeights/Sec
+Using 10 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    69.74 MegaHeights/Sec
+Average Performance =    69.57 MegaHeights/Sec
+Using 10 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =   127.97 MegaHeights/Sec
+Average Performance =   112.86 MegaHeights/Sec
+Using 10 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =   127.92 MegaHeights/Sec
+Average Performance =   126.68 MegaHeights/Sec
+Using 20 threads
+Using 5 nodes
+Volume =    37.54 
+Volume =    58.66 
+Volume =    70.53 
+Volume =    77.22 
+Volume =    80.97 
+Volume =    83.09 
+   Peak Performance =     4.84 MegaHeights/Sec
+Average Performance =     3.41 MegaHeights/Sec
+Using 20 threads
+Using 10 nodes
+Volume =    30.45 
+Volume =    33.83 
+Volume =    34.20 
+Volume =    34.25 
+Volume =    34.25 
+Volume =    34.25 
+   Peak Performance =    16.39 MegaHeights/Sec
+Average Performance =    12.07 MegaHeights/Sec
+Using 20 threads
+Using 20 nodes
+Volume =    27.68 
+Volume =    28.37 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+Volume =    28.39 
+   Peak Performance =    50.63 MegaHeights/Sec
+Average Performance =    39.34 MegaHeights/Sec
+Using 20 threads
+Using 50 nodes
+Volume =    26.22 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+Volume =    26.32 
+   Peak Performance =    68.77 MegaHeights/Sec
+Average Performance =    56.48 MegaHeights/Sec
+Using 20 threads
+Using 100 nodes
+Volume =    25.76 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+Volume =    25.78 
+   Peak Performance =    79.30 MegaHeights/Sec
+Average Performance =    65.87 MegaHeights/Sec
+Using 20 threads
+Using 200 nodes
+Volume =    25.53 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+Volume =    25.54 
+   Peak Performance =    81.55 MegaHeights/Sec
+Average Performance =    74.47 MegaHeights/Sec
+Using 20 threads
+Using 500 nodes
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+Volume =    25.40 
+   Peak Performance =    80.72 MegaHeights/Sec
+Average Performance =    78.83 MegaHeights/Sec
+Using 20 threads
+Using 1000 nodes
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+Volume =    25.36 
+   Peak Performance =    81.64 MegaHeights/Sec
+Average Performance =    80.35 MegaHeights/Sec
+Using 20 threads
+Using 2000 nodes
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+Volume =    25.33 
+   Peak Performance =    82.10 MegaHeights/Sec
+Average Performance =    81.89 MegaHeights/Sec
+Using 20 threads
+Using 5000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =    92.64 MegaHeights/Sec
+Average Performance =    84.23 MegaHeights/Sec
+Using 20 threads
+Using 10000 nodes
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+Volume =    25.32 
+   Peak Performance =   118.85 MegaHeights/Sec
+Average Performance =   100.33 MegaHeights/Sec
