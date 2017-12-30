@@ -1,0 +1,12 @@
+Using 1 threads
+   Peak performance =   185.02 MegaSums/Sec
+Average performance =   178.89 MegaSums/sec
+Using 2 threads
+   Peak performance =   369.04 MegaSums/Sec
+Average performance =   323.53 MegaSums/sec
+Using 3 threads
+   Peak performance =   369.08 MegaSums/Sec
+Average performance =   368.80 MegaSums/sec
+Using 4 threads
+   Peak performance =   719.53 MegaSums/Sec
+Average performance =   628.13 MegaSums/sec

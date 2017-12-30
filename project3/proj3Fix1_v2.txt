@@ -1,0 +1,504 @@
+Using 1 threads
+          Using PAD =    0 
+   Peak performance =   184.40 MegaSums/Sec
+Average performance =   178.16 MegaSums/sec
+Using 1 threads
+          Using PAD =    1 
+   Peak performance =   184.89 MegaSums/Sec
+Average performance =   184.37 MegaSums/sec
+Using 1 threads
+          Using PAD =    2 
+   Peak performance =   183.94 MegaSums/Sec
+Average performance =   183.89 MegaSums/sec
+Using 1 threads
+          Using PAD =    3 
+   Peak performance =   182.62 MegaSums/Sec
+Average performance =   179.95 MegaSums/sec
+Using 1 threads
+          Using PAD =    4 
+   Peak performance =   178.23 MegaSums/Sec
+Average performance =   177.15 MegaSums/sec
+Using 1 threads
+          Using PAD =    5 
+   Peak performance =   183.93 MegaSums/Sec
+Average performance =   182.87 MegaSums/sec
+Using 1 threads
+          Using PAD =    6 
+   Peak performance =   180.89 MegaSums/Sec
+Average performance =   177.42 MegaSums/sec
+Using 1 threads
+          Using PAD =    7 
+   Peak performance =   182.51 MegaSums/Sec
+Average performance =   179.83 MegaSums/sec
+Using 1 threads
+          Using PAD =    8 
+   Peak performance =   178.08 MegaSums/Sec
+Average performance =   177.02 MegaSums/sec
+Using 1 threads
+          Using PAD =    9 
+   Peak performance =   177.99 MegaSums/Sec
+Average performance =   172.63 MegaSums/sec
+Using 1 threads
+          Using PAD =    10 
+   Peak performance =   178.51 MegaSums/Sec
+Average performance =   175.07 MegaSums/sec
+Using 1 threads
+          Using PAD =    11 
+   Peak performance =   183.41 MegaSums/Sec
+Average performance =   135.29 MegaSums/sec
+Using 1 threads
+          Using PAD =    12 
+   Peak performance =   165.40 MegaSums/Sec
+Average performance =   134.80 MegaSums/sec
+Using 1 threads
+          Using PAD =    13 
+   Peak performance =   180.67 MegaSums/Sec
+Average performance =   137.96 MegaSums/sec
+Using 1 threads
+          Using PAD =    14 
+   Peak performance =   179.41 MegaSums/Sec
+Average performance =   173.67 MegaSums/sec
+Using 1 threads
+          Using PAD =    15 
+   Peak performance =   155.47 MegaSums/Sec
+Average performance =   122.55 MegaSums/sec
+Using 1 threads
+          Using PAD =    16 
+   Peak performance =   178.77 MegaSums/Sec
+Average performance =   154.28 MegaSums/sec
+Using 1 threads
+          Using PAD =    17 
+   Peak performance =   178.09 MegaSums/Sec
+Average performance =   172.57 MegaSums/sec
+Using 1 threads
+          Using PAD =    18 
+   Peak performance =   178.59 MegaSums/Sec
+Average performance =   178.29 MegaSums/sec
+Using 1 threads
+          Using PAD =    19 
+   Peak performance =   177.92 MegaSums/Sec
+Average performance =   177.69 MegaSums/sec
+Using 1 threads
+          Using PAD =    20 
+   Peak performance =   176.52 MegaSums/Sec
+Average performance =   173.96 MegaSums/sec
+Using 2 threads
+          Using PAD =    0 
+   Peak performance =   204.27 MegaSums/Sec
+Average performance =   160.16 MegaSums/sec
+Using 2 threads
+          Using PAD =    1 
+   Peak performance =   227.81 MegaSums/Sec
+Average performance =   154.64 MegaSums/sec
+Using 2 threads
+          Using PAD =    2 
+   Peak performance =   180.11 MegaSums/Sec
+Average performance =   127.93 MegaSums/sec
+Using 2 threads
+          Using PAD =    3 
+   Peak performance =    98.32 MegaSums/Sec
+Average performance =    88.02 MegaSums/sec
+Using 2 threads
+          Using PAD =    4 
+   Peak performance =   350.37 MegaSums/Sec
+Average performance =   290.23 MegaSums/sec
+Using 2 threads
+          Using PAD =    5 
+   Peak performance =   355.61 MegaSums/Sec
+Average performance =   280.16 MegaSums/sec
+Using 2 threads
+          Using PAD =    6 
+   Peak performance =   333.02 MegaSums/Sec
+Average performance =   314.86 MegaSums/sec
+Using 2 threads
+          Using PAD =    7 
+   Peak performance =   347.44 MegaSums/Sec
+Average performance =   286.08 MegaSums/sec
+Using 2 threads
+          Using PAD =    8 
+   Peak performance =   346.27 MegaSums/Sec
+Average performance =   310.44 MegaSums/sec
+Using 2 threads
+          Using PAD =    9 
+   Peak performance =   336.87 MegaSums/Sec
+Average performance =   327.96 MegaSums/sec
+Using 2 threads
+          Using PAD =    10 
+   Peak performance =   339.16 MegaSums/Sec
+Average performance =   279.06 MegaSums/sec
+Using 2 threads
+          Using PAD =    11 
+   Peak performance =   351.03 MegaSums/Sec
+Average performance =   331.95 MegaSums/sec
+Using 2 threads
+          Using PAD =    12 
+   Peak performance =   313.18 MegaSums/Sec
+Average performance =   290.07 MegaSums/sec
+Using 2 threads
+          Using PAD =    13 
+   Peak performance =   338.67 MegaSums/Sec
+Average performance =   330.83 MegaSums/sec
+Using 2 threads
+          Using PAD =    14 
+   Peak performance =   334.58 MegaSums/Sec
+Average performance =   326.19 MegaSums/sec
+Using 2 threads
+          Using PAD =    15 
+   Peak performance =   351.83 MegaSums/Sec
+Average performance =   292.04 MegaSums/sec
+Using 2 threads
+          Using PAD =    16 
+   Peak performance =   334.04 MegaSums/Sec
+Average performance =   295.09 MegaSums/sec
+Using 2 threads
+          Using PAD =    17 
+   Peak performance =   313.88 MegaSums/Sec
+Average performance =   253.79 MegaSums/sec
+Using 2 threads
+          Using PAD =    18 
+   Peak performance =   343.30 MegaSums/Sec
+Average performance =   306.26 MegaSums/sec
+Using 2 threads
+          Using PAD =    19 
+   Peak performance =   340.65 MegaSums/Sec
+Average performance =   302.08 MegaSums/sec
+Using 2 threads
+          Using PAD =    20 
+   Peak performance =   337.64 MegaSums/Sec
+Average performance =   286.41 MegaSums/sec
+Using 4 threads
+          Using PAD =    0 
+   Peak performance =   114.22 MegaSums/Sec
+Average performance =    96.77 MegaSums/sec
+Using 4 threads
+          Using PAD =    1 
+   Peak performance =   106.06 MegaSums/Sec
+Average performance =    94.44 MegaSums/sec
+Using 4 threads
+          Using PAD =    2 
+   Peak performance =    98.21 MegaSums/Sec
+Average performance =    85.03 MegaSums/sec
+Using 4 threads
+          Using PAD =    3 
+   Peak performance =    93.01 MegaSums/Sec
+Average performance =    82.88 MegaSums/sec
+Using 4 threads
+          Using PAD =    4 
+   Peak performance =   127.75 MegaSums/Sec
+Average performance =   119.65 MegaSums/sec
+Using 4 threads
+          Using PAD =    5 
+   Peak performance =   122.66 MegaSums/Sec
+Average performance =   109.59 MegaSums/sec
+Using 4 threads
+          Using PAD =    6 
+   Peak performance =   126.13 MegaSums/Sec
+Average performance =   115.54 MegaSums/sec
+Using 4 threads
+          Using PAD =    7 
+   Peak performance =   176.48 MegaSums/Sec
+Average performance =   161.81 MegaSums/sec
+Using 4 threads
+          Using PAD =    8 
+   Peak performance =   260.36 MegaSums/Sec
+Average performance =   169.11 MegaSums/sec
+Using 4 threads
+          Using PAD =    9 
+   Peak performance =   148.71 MegaSums/Sec
+Average performance =   140.12 MegaSums/sec
+Using 4 threads
+          Using PAD =    10 
+   Peak performance =   168.18 MegaSums/Sec
+Average performance =   145.30 MegaSums/sec
+Using 4 threads
+          Using PAD =    11 
+   Peak performance =   194.46 MegaSums/Sec
+Average performance =   181.02 MegaSums/sec
+Using 4 threads
+          Using PAD =    12 
+   Peak performance =   330.24 MegaSums/Sec
+Average performance =   208.76 MegaSums/sec
+Using 4 threads
+          Using PAD =    13 
+   Peak performance =   708.09 MegaSums/Sec
+Average performance =   633.72 MegaSums/sec
+Using 4 threads
+          Using PAD =    14 
+   Peak performance =   708.72 MegaSums/Sec
+Average performance =   645.03 MegaSums/sec
+Using 4 threads
+          Using PAD =    15 
+   Peak performance =   726.77 MegaSums/Sec
+Average performance =   712.76 MegaSums/sec
+Using 4 threads
+          Using PAD =    16 
+   Peak performance =   698.16 MegaSums/Sec
+Average performance =   656.48 MegaSums/sec
+Using 4 threads
+          Using PAD =    17 
+   Peak performance =   699.81 MegaSums/Sec
+Average performance =   685.13 MegaSums/sec
+Using 4 threads
+          Using PAD =    18 
+   Peak performance =   703.30 MegaSums/Sec
+Average performance =   700.96 MegaSums/sec
+Using 4 threads
+          Using PAD =    19 
+   Peak performance =   700.80 MegaSums/Sec
+Average performance =   686.06 MegaSums/sec
+Using 4 threads
+          Using PAD =    20 
+   Peak performance =   692.25 MegaSums/Sec
+Average performance =   684.34 MegaSums/sec
+Using 6 threads
+          Using PAD =    0 
+   Peak performance =    92.53 MegaSums/Sec
+Average performance =    84.70 MegaSums/sec
+Using 6 threads
+          Using PAD =    1 
+   Peak performance =   103.62 MegaSums/Sec
+Average performance =    87.64 MegaSums/sec
+Using 6 threads
+          Using PAD =    2 
+   Peak performance =    96.10 MegaSums/Sec
+Average performance =    86.09 MegaSums/sec
+Using 6 threads
+          Using PAD =    3 
+   Peak performance =    98.02 MegaSums/Sec
+Average performance =    90.46 MegaSums/sec
+Using 6 threads
+          Using PAD =    4 
+   Peak performance =   122.53 MegaSums/Sec
+Average performance =   107.41 MegaSums/sec
+Using 6 threads
+          Using PAD =    5 
+   Peak performance =   127.93 MegaSums/Sec
+Average performance =   113.87 MegaSums/sec
+Using 6 threads
+          Using PAD =    6 
+   Peak performance =   113.28 MegaSums/Sec
+Average performance =   105.62 MegaSums/sec
+Using 6 threads
+          Using PAD =    7 
+   Peak performance =   173.99 MegaSums/Sec
+Average performance =   145.98 MegaSums/sec
+Using 6 threads
+          Using PAD =    8 
+   Peak performance =   181.31 MegaSums/Sec
+Average performance =   140.36 MegaSums/sec
+Using 6 threads
+          Using PAD =    9 
+   Peak performance =   161.91 MegaSums/Sec
+Average performance =   147.32 MegaSums/sec
+Using 6 threads
+          Using PAD =    10 
+   Peak performance =   198.76 MegaSums/Sec
+Average performance =   161.87 MegaSums/sec
+Using 6 threads
+          Using PAD =    11 
+   Peak performance =   330.09 MegaSums/Sec
+Average performance =   267.08 MegaSums/sec
+Using 6 threads
+          Using PAD =    12 
+   Peak performance =   300.74 MegaSums/Sec
+Average performance =   215.97 MegaSums/sec
+Using 6 threads
+          Using PAD =    13 
+   Peak performance =   543.02 MegaSums/Sec
+Average performance =   439.99 MegaSums/sec
+Using 6 threads
+          Using PAD =    14 
+   Peak performance =   536.75 MegaSums/Sec
+Average performance =   394.57 MegaSums/sec
+Using 6 threads
+          Using PAD =    15 
+   Peak performance =   617.42 MegaSums/Sec
+Average performance =   462.05 MegaSums/sec
+Using 6 threads
+          Using PAD =    16 
+   Peak performance =   538.27 MegaSums/Sec
+Average performance =   408.90 MegaSums/sec
+Using 6 threads
+          Using PAD =    17 
+   Peak performance =   641.36 MegaSums/Sec
+Average performance =   474.61 MegaSums/sec
+Using 6 threads
+          Using PAD =    18 
+   Peak performance =   399.25 MegaSums/Sec
+Average performance =   338.95 MegaSums/sec
+Using 6 threads
+          Using PAD =    19 
+   Peak performance =   534.84 MegaSums/Sec
+Average performance =   407.32 MegaSums/sec
+Using 6 threads
+          Using PAD =    20 
+   Peak performance =   642.18 MegaSums/Sec
+Average performance =   499.28 MegaSums/sec
+Using 8 threads
+          Using PAD =    0 
+   Peak performance =   107.79 MegaSums/Sec
+Average performance =    94.17 MegaSums/sec
+Using 8 threads
+          Using PAD =    1 
+   Peak performance =   101.30 MegaSums/Sec
+Average performance =    92.44 MegaSums/sec
+Using 8 threads
+          Using PAD =    2 
+   Peak performance =   100.71 MegaSums/Sec
+Average performance =    94.62 MegaSums/sec
+Using 8 threads
+          Using PAD =    3 
+   Peak performance =   102.25 MegaSums/Sec
+Average performance =    94.24 MegaSums/sec
+Using 8 threads
+          Using PAD =    4 
+   Peak performance =   141.27 MegaSums/Sec
+Average performance =   118.02 MegaSums/sec
+Using 8 threads
+          Using PAD =    5 
+   Peak performance =   142.40 MegaSums/Sec
+Average performance =   133.26 MegaSums/sec
+Using 8 threads
+          Using PAD =    6 
+   Peak performance =   134.83 MegaSums/Sec
+Average performance =   111.21 MegaSums/sec
+Using 8 threads
+          Using PAD =    7 
+   Peak performance =   255.87 MegaSums/Sec
+Average performance =   184.02 MegaSums/sec
+Using 8 threads
+          Using PAD =    8 
+   Peak performance =   290.69 MegaSums/Sec
+Average performance =   255.94 MegaSums/sec
+Using 8 threads
+          Using PAD =    9 
+   Peak performance =   300.85 MegaSums/Sec
+Average performance =   200.49 MegaSums/sec
+Using 8 threads
+          Using PAD =    10 
+   Peak performance =   189.62 MegaSums/Sec
+Average performance =   164.36 MegaSums/sec
+Using 8 threads
+          Using PAD =    11 
+   Peak performance =   360.70 MegaSums/Sec
+Average performance =   243.77 MegaSums/sec
+Using 8 threads
+          Using PAD =    12 
+   Peak performance =   191.46 MegaSums/Sec
+Average performance =   178.55 MegaSums/sec
+Using 8 threads
+          Using PAD =    13 
+   Peak performance =   630.46 MegaSums/Sec
+Average performance =   475.38 MegaSums/sec
+Using 8 threads
+          Using PAD =    14 
+   Peak performance =   633.77 MegaSums/Sec
+Average performance =   544.82 MegaSums/sec
+Using 8 threads
+          Using PAD =    15 
+   Peak performance =   624.08 MegaSums/Sec
+Average performance =   513.32 MegaSums/sec
+Using 8 threads
+          Using PAD =    16 
+   Peak performance =   623.07 MegaSums/Sec
+Average performance =   569.36 MegaSums/sec
+Using 8 threads
+          Using PAD =    17 
+   Peak performance =   639.95 MegaSums/Sec
+Average performance =   534.36 MegaSums/sec
+Using 8 threads
+          Using PAD =    18 
+   Peak performance =   571.12 MegaSums/Sec
+Average performance =   517.32 MegaSums/sec
+Using 8 threads
+          Using PAD =    19 
+   Peak performance =   618.47 MegaSums/Sec
+Average performance =   534.08 MegaSums/sec
+Using 8 threads
+          Using PAD =    20 
+   Peak performance =   609.58 MegaSums/Sec
+Average performance =   528.11 MegaSums/sec
+Using 10 threads
+          Using PAD =    0 
+   Peak performance =   118.41 MegaSums/Sec
+Average performance =   113.70 MegaSums/sec
+Using 10 threads
+          Using PAD =    1 
+   Peak performance =   146.46 MegaSums/Sec
+Average performance =   116.82 MegaSums/sec
+Using 10 threads
+          Using PAD =    2 
+   Peak performance =   119.51 MegaSums/Sec
+Average performance =   100.27 MegaSums/sec
+Using 10 threads
+          Using PAD =    3 
+   Peak performance =   112.70 MegaSums/Sec
+Average performance =    90.75 MegaSums/sec
+Using 10 threads
+          Using PAD =    4 
+   Peak performance =   216.77 MegaSums/Sec
+Average performance =   150.18 MegaSums/sec
+Using 10 threads
+          Using PAD =    5 
+   Peak performance =   126.74 MegaSums/Sec
+Average performance =   115.51 MegaSums/sec
+Using 10 threads
+          Using PAD =    6 
+   Peak performance =   120.47 MegaSums/Sec
+Average performance =   107.76 MegaSums/sec
+Using 10 threads
+          Using PAD =    7 
+   Peak performance =   310.20 MegaSums/Sec
+Average performance =   276.24 MegaSums/sec
+Using 10 threads
+          Using PAD =    8 
+   Peak performance =   285.73 MegaSums/Sec
+Average performance =   234.02 MegaSums/sec
+Using 10 threads
+          Using PAD =    9 
+   Peak performance =   300.91 MegaSums/Sec
+Average performance =   189.40 MegaSums/sec
+Using 10 threads
+          Using PAD =    10 
+   Peak performance =   315.01 MegaSums/Sec
+Average performance =   243.25 MegaSums/sec
+Using 10 threads
+          Using PAD =    11 
+   Peak performance =   383.75 MegaSums/Sec
+Average performance =   338.97 MegaSums/sec
+Using 10 threads
+          Using PAD =    12 
+   Peak performance =   340.61 MegaSums/Sec
+Average performance =   235.09 MegaSums/sec
+Using 10 threads
+          Using PAD =    13 
+   Peak performance =   664.94 MegaSums/Sec
+Average performance =   568.78 MegaSums/sec
+Using 10 threads
+          Using PAD =    14 
+   Peak performance =   672.04 MegaSums/Sec
+Average performance =   642.97 MegaSums/sec
+Using 10 threads
+          Using PAD =    15 
+   Peak performance =   660.54 MegaSums/Sec
+Average performance =   627.16 MegaSums/sec
+Using 10 threads
+          Using PAD =    16 
+   Peak performance =   649.57 MegaSums/Sec
+Average performance =   626.83 MegaSums/sec
+Using 10 threads
+          Using PAD =    17 
+   Peak performance =   643.83 MegaSums/Sec
+Average performance =   621.77 MegaSums/sec
+Using 10 threads
+          Using PAD =    18 
+   Peak performance =   579.47 MegaSums/Sec
+Average performance =   542.52 MegaSums/sec
+Using 10 threads
+          Using PAD =    19 
+   Peak performance =   534.69 MegaSums/Sec
+Average performance =   459.83 MegaSums/sec
+Using 10 threads
+          Using PAD =    20 
+   Peak performance =   636.85 MegaSums/Sec
+Average performance =   572.38 MegaSums/sec

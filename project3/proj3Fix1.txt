@@ -1,0 +1,128 @@
+Using 2 threads
+2 0   120.53   107.83
+Using 2 threads
+2 1   112.50   105.39
+Using 2 threads
+2 2    97.29    92.12
+Using 2 threads
+2 3   369.05   339.51
+Using 2 threads
+2 4   102.36    97.98
+Using 2 threads
+2 5   173.29   153.84
+Using 2 threads
+2 6   150.94   144.57
+Using 2 threads
+2 7   368.12   339.06
+Using 2 threads
+2 8   366.66   362.82
+Using 2 threads
+2 9   366.11   365.89
+Using 2 threads
+2 10   345.28   344.73
+Using 2 threads
+2 11   361.18   360.79
+Using 2 threads
+2 12   338.37   337.84
+Using 2 threads
+2 13   361.48   361.16
+Using 2 threads
+2 14   366.88   362.93
+Using 2 threads
+2 15   368.96   368.84
+Using 4 threads
+4 0   108.62    93.84
+Using 4 threads
+4 1   105.78    90.75
+Using 4 threads
+4 2   106.00    92.75
+Using 4 threads
+4 3   134.36   126.49
+Using 4 threads
+4 4    97.51    89.11
+Using 4 threads
+4 5   120.03   103.90
+Using 4 threads
+4 6    97.15    92.91
+Using 4 threads
+4 7   189.02   162.02
+Using 4 threads
+4 8   189.67   153.48
+Using 4 threads
+4 9   186.06   153.93
+Using 4 threads
+4 10   170.17   159.40
+Using 4 threads
+4 11   196.72   187.63
+Using 4 threads
+4 12   228.40   205.77
+Using 4 threads
+4 13   706.95   624.82
+Using 4 threads
+4 14   716.98   715.17
+Using 4 threads
+4 15   723.84   647.84
+Using 2 threads
+2 0   109.35   104.12
+Using 2 threads
+2 1   113.76   108.45
+Using 2 threads
+2 2    96.49    88.68
+Using 2 threads
+2 3   369.24   332.85
+Using 2 threads
+2 4    99.22    96.31
+Using 2 threads
+2 5   152.05   150.44
+Using 2 threads
+2 6   155.77   147.18
+Using 2 threads
+2 7   368.13   358.38
+Using 2 threads
+2 8   366.21   366.05
+Using 2 threads
+2 9   366.11   365.79
+Using 2 threads
+2 10   345.22   343.86
+Using 2 threads
+2 11   361.16   360.62
+Using 2 threads
+2 12   339.02   338.27
+Using 2 threads
+2 13   360.88   360.52
+Using 2 threads
+2 14   366.71   362.37
+Using 2 threads
+2 15   368.63   368.33
+Using 4 threads
+4 0   110.51    91.67
+Using 4 threads
+4 1   109.03    98.22
+Using 4 threads
+4 2   101.50    89.79
+Using 4 threads
+4 3   124.96   117.70
+Using 4 threads
+4 4   103.94    94.12
+Using 4 threads
+4 5   130.47   107.85
+Using 4 threads
+4 6   112.22   100.92
+Using 4 threads
+4 7   182.84   164.58
+Using 4 threads
+4 8   193.88   162.40
+Using 4 threads
+4 9   176.48   157.60
+Using 4 threads
+4 10   171.83   161.30
+Using 4 threads
+4 11   205.17   194.10
+Using 4 threads
+4 12   227.87   205.58
+Using 4 threads
+4 13   707.72   626.08
+Using 4 threads
+4 14   721.59   720.49
+Using 4 threads
+4 15   721.96   615.54
